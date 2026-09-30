@@ -1,0 +1,19 @@
+Formatting notes for Personalized Movie Recommendation System report.
+
+Source 1: /home/ubuntu/upload/Chapter-1and2Smaple.pdf
+1. Chapter opening uses centered uppercase chapter label such as 'CHAPTER 1' followed by centered uppercase chapter title such as 'EXECUTIVE SUMMARY'.
+2. Chapter 1 begins with a formal introductory paragraph describing internship duration, project title, institution, and overall objective.
+3. Section numbering format uses 1.1, 1.2, 2.1, 2.2 and so on.
+4. Chapter 1 structure includes 'Learning Objectives' and 'Outcomes Achieved' with bullet points in full-sentence academic style.
+5. Chapter 2 structure includes 'Introduction of the Organization', 'Vision, Mission, and Values', 'Policy of the Organization in Relation to the Intern Role', 'Organizational Structure', and 'Roles and Responsibilities of the Employees Guiding the Intern'.
+6. Typography appears like Times New Roman with justified body text, academic spacing, and bold subsection headings.
+7. Page design includes a border and watermark-like background; the essential reproducible features are centered chapter headings, numbered sections, justified paragraphs, and formal bullet formatting.
+
+Source 2: /home/ubuntu/upload/tableofcontents.pdf
+1. Table of contents heading is centered and uppercase: 'TABLE OF CONTENTS'.
+2. Entries use numbered chapter titles in uppercase, followed by dotted leaders and right-aligned page numbers.
+3. Subsections are indented under chapter titles, with deeper indentation for third-level headings.
+4. TOC reflects a multi-level hierarchy and should look formal and dense, similar to an academic project report.
+5. Chapter titles in the TOC are bold and uppercase; subsection entries use title case.
+
+These notes should guide the Word report generation, especially Chapter 1, Chapter 2, and TOC styling.
